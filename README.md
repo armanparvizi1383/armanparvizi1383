@@ -1,4 +1,4 @@
-## Hi there I'm Arman Parvizi👋
+# من کی‌ ام؟ 👨‍💻
 
 ## My Activity
 <img src="https://github-readme-stats.vercel.app/api?username=armanparvizi1383&show_icons=true&theme=radical" />
